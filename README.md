@@ -7,6 +7,7 @@
 <h3> Qompass AI on Debian </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-debian)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/debian/total?style=flat-square)
   <a href="https://www.debian.org/">
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian">
 </a>
@@ -17,7 +18,6 @@
 <a href="https://wiki.debian.org/DebianTutorials">
   <img src="https://img.shields.io/badge/Debian_Tutorials-green?style=flat-square" alt="Debian Tutorials">
 </a>
-
 <br>
   <a href="https://www.gnu.org/licenses/agpl-3.0"><img src="https://img.shields.io/badge/License-AGPL%20v3-blue.svg" alt="License: AGPL v3"></a>
   <a href="./LICENSE-QCDA"><img src="https://img.shields.io/badge/license-Q--CDA-lightgrey.svg" alt="License: Q-CDA"></a>
