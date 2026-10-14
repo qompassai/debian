@@ -71,7 +71,7 @@ except Exception as e:
 zenodo_json = {
     "title": title,
     "description": html_description,
-    "license": ["AGPL-3.0", "Q-CDA-1.0"],
+    "license": "Apache-2.0",
     "upload_type": "software",
     "access_right": "open",
     "version": "1.0.0",
