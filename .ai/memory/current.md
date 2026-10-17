@@ -1,15 +1,16 @@
 # Current Work
 
-Language/framework mirror repository (qompassai hygiene program).
+Matt's own repository (ruled by Matt, 2026-10-16). NOT a mirror.
 
 ## Status
 
-Mirror of upstream. Not actively developed; synced periodically.
-See qompassai/Python for the license normalization pilot pattern.
+Qompass Debian configuration/docs set, owned and developed here.
+The wave-1 metadata test gate (commit 206bb27, pytest 14/14) stands
+with Matt's approval.
 
 ## Standing rules
 
 - License: Apache-2.0 (SPDX). `LICENSE` file byte-identical to canonical
   text except filled copyright line.
-- Do not push code changes without Matt's explicit direction; mirrors
-  track upstream.
+- Normal repo rules apply: changes land here directly under the usual
+  gate + push discipline.
