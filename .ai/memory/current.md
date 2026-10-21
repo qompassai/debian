@@ -1,12 +1,12 @@
 # Current Work
 
-Matt's own repository (ruled by Matt, 2026-10-16). NOT a mirror.
+Owner's own repository (ruled by Owner, 2026-10-16). NOT a mirror.
 
 ## Status
 
 Qompass Debian configuration/docs set, owned and developed here.
 The wave-1 metadata test gate (commit 206bb27, pytest 14/14) stands
-with Matt's approval.
+with Owner's approval.
 
 ## Standing rules
 
